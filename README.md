@@ -234,7 +234,7 @@ DATA:
 }
 ```
 
-### Respuesta esperada (para saldo transacción no encontrada cuando se paga por "card"):
+**Respuesta esperada (para saldo transacción no encontrada cuando se paga por "card"):**
 
 HTTP_CODE: 400
 
